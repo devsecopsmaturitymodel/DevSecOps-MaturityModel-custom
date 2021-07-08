@@ -1,0 +1,39 @@
+---
+Test and Verification:
+  Dynamic depth for applications:
+    Coverage of client side dynamic components:
+    Coverage of hidden endpoints:
+    Simple Scan:
+    Usage of multiple scanners:
+  Static depth for applications:
+    Static analysis for important server side components:
+    Test of server side components with known vulnerabilities:
+      evidence: |
+      The ClusterScanner scans with the OWASP Dependency Check enabled.
+      ![ClusterScannerFindings](assets/evidence-images/dependencyCheck.png)
+  Test-Intensity:
+    Regular tests:
+    Default settings for intensity:
+  Consolidation:
+    Advanced visualization of defects:
+      evidence: The current security status is visualized in OWASP DefectDojo.
+    Simple false positive treatment:
+      evidence: Via OWASP DefectDojo, ![ClusterScannerFindings](assets/evidence-images/defectdojo.png)
+    Usage of a vulnerability management system:
+      evidence: |
+        OWASP DefectDojo is used
+        ![ClusterScannerFindings](assets/evidence-images/defectdojo.png)
+  Dynamic depth for infrastructure:
+    Load tests:
+    Test of the configuration of cloud environments:
+    Test for exposed services:
+  Static depth for infrastructure:
+    Test cluster deployment resources:
+    Test the cloud configuration:
+    Check for image lifetime:
+      evidence: |
+        The ClusterScanner is configured to report too old images depending on the project configuration.
+        ![ClusterScannerFindings](assets/evidence-images/defectdojo.png)
+
+
+...
