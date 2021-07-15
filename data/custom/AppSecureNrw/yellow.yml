@@ -1,0 +1,18 @@
+Build and Deployment:
+  Build:
+    Continuous Integration:
+Test and Verification:
+  Consolidation:
+    Definition of quality gates:
+    Simple false positive treatment:
+  Static depth for applications:
+    Test of server side components with known vulnerabilities:
+      evidence:
+        ![Dependency Check](assets/evidence-images/dependencyCheck.png)
+  Application tests:
+    Security unit tests for important components:
+Culture and Organization:
+  Education and Guidance:
+    Security code review:
+    Security consulting on request:
+    Simple mob hacking:

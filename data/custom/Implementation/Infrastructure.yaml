@@ -1,7 +1,0 @@
----
-Implementation:
-  Infrastructure Hardening:
-    The cluster is hardened:
-      evidence: |
-        [Link to my documentation](https://documents)
-...
