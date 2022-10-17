@@ -6,6 +6,7 @@ Test and Verification:
     Test of server side components with known vulnerabilities:
       evidence: |
         ![Dependency Check](assets/evidence-images/dependencyCheck.png)
+      isImplemented: true
   Application tests:
     Security unit tests for important components:
       level: 1
