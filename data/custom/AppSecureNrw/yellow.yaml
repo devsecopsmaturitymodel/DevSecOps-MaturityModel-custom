@@ -1,9 +1,8 @@
 Test and Verification:
   Consolidation:
-    Definition of quality gates:
     Simple false positive treatment:
   Static depth for applications:
-    Test of server side components with known vulnerabilities:
+    Software Composition Analysis (server side):
       evidence: |
         ![Dependency Check](assets/evidence-images/dependencyCheck.png)
       isImplemented: true
