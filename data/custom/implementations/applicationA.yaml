@@ -1,0 +1,13 @@
+Test and Verification:
+  Consolidation:
+    Simple false positive treatment:
+  Static depth for applications:
+    Software Composition Analysis (server side):
+      teamsEvidence:
+        A: |-
+          ![Dependency Check](assets/evidence-images/dependencyCheck.png)
+  Application tests:
+    Security unit tests for important components:
+      teamsEvidence:
+        A: |-
+          See opa policy via https://XXX

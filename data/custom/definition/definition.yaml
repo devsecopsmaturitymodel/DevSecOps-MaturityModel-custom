@@ -3,15 +3,9 @@ Test and Verification:
     Simple false positive treatment:
   Static depth for applications:
     Software Composition Analysis (server side):
-      evidence: |
-        ![Dependency Check](assets/evidence-images/dependencyCheck.png)
-      teamsImplemented:
-        - Default
   Application tests:
     Security unit tests for important components:
       level: 1
-      teamsImplemented:
-        - A      
 Culture and Organization:
   Education and Guidance:
     Security code review:
