@@ -11,3 +11,6 @@ Test and Verification:
       teamsEvidence:
         A: |-
           See opa policy via https://XXX
+
+_yaml_references:
+  - include(A, platformZ.yaml)

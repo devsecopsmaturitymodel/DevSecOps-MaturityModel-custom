@@ -1,0 +1,12 @@
+# Different applications run in different infrastrcture envs.
+# This files shows activities implemented by platform Z.
+# yaml-language-server: $schema=../../schemas/dsomm-schema-build-and-deployment.json
+---
+Build and Deployment:
+  Deployment:
+    Blue/Green Deployment:
+      teamsEvidence:
+        platformZ: "See https://xxx1"
+    Defined deployment process:
+      teamsEvidence:
+        platformZ: "See https://xxx2"
